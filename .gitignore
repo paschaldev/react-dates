@@ -46,3 +46,4 @@ _gh-pages
 # Only apps should have lockfiles
 yarn.lock
 package-lock.json
+config.bat
